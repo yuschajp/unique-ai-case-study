@@ -1,0 +1,4 @@
+anthropic
+pypdf
+scikit-learn
+numpy
