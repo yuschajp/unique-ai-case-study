@@ -45,7 +45,7 @@ Financial Docs (PDF / TXT)
          └──────────┬──────────────────┘
                     ▼
          ┌─────────────────────┐
-         │  Claude API         │  Synthesis + cited answers
+         │         API         │  Synthesis + cited answers
          │  (private VPC       │  Set ANTHROPIC_API_KEY to enable
          │   in production)    │
          └─────────────────────┘
