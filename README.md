@@ -102,7 +102,7 @@ python3 delta_detector.py 10k_2023.pdf 10k_2024.pdf --type filing
 python3 delta_detector.py fomc_oct.txt fomc_nov.txt --type cb_minutes
 ```
 
-### Enable live Claude responses
+### Enable live responses
 ```bash
 export ANTHROPIC_API_KEY=your_key_here
 python3 rag_pipeline.py --demo
@@ -148,7 +148,7 @@ critical for hallucination control. The model can only reference what
 is in the knowledge base.
 
 ### Hallucination control
-The prompt instructs Claude to:
+The prompt instructed to:
 - Only reference provided source documents
 - Use `[SOURCE N]` citations on every claim
 - Explicitly say "I don't know" rather than extrapolate
