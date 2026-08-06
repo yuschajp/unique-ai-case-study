@@ -194,5 +194,4 @@ apex-rag-pipeline/
 
 ---
 
-## Built for
-Unique AI · Apex Global Design Partnership · Product Expert Case Study
+## Built for Product Expert Case Study
