@@ -1,8 +1,8 @@
 # Apex Global — Agentic AI Research Assistant
-## Unique AI Case Study | Python Toolkit
+## Case Study | Python Toolkit
 
 A working Python implementation of the secure AI architecture proposed for Apex Global,
-a $15B AUM multi-strategy hedge fund. Built as part of the Unique AI Product Expert case study.
+a $15B AUM multi-strategy hedge fund. Built as part of case study.
 
 Two tools that work together to solve the core problem:
 **analysts spending 60%+ of their day manually reading financial documents.**
