@@ -443,7 +443,7 @@ Risks: AMD MI300X gaining traction at select hyperscalers; custom silicon from G
 v5 and Amazon Trainium 2 could pressure long-term share. Regulatory risk on China export 
 controls remains an overhang.
 
-Analyst: Michael Chen | michael.chen@gs.com | Published: November 2024
+Analyst: Sample Analyst | analyst@example.com | Published: November 2024
 """,
     "fomc_minutes_nov2024.txt": """
 Federal Open Market Committee Meeting Minutes — November 6-7, 2024
